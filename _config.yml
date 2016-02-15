@@ -10,6 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.4408602
 color:
   saturation: 0.6075504
   brandStrength: 0.7849463
@@ -21,6 +22,5 @@ color:
     - '#807F88'
     - '#65422F'
   rhythmicContrast: 0.8351254
-typography_spectrum: 0.4408602
 layout_spectrum: 0.1469534
 name: Lots of Little
