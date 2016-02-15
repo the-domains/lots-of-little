@@ -1,26 +1,26 @@
-color:
-  saturation: 0.6075504
-  brandStrength: 0.1622044
-  rhythmicContrast: 0.8351254
-  brandColors:
-    - '#020203'
-    - '#31879B'
-    - '#044B65'
-    - '#807F88'
-    - '#65422F'
-  lightness: 0.7805884
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.1469534
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.6075504
+  brandStrength: 0.7849463
+  lightness: 0.7805884
+  brandColors:
+    - '#020203'
+    - '#31879B'
+    - '#044B65'
+    - '#807F88'
+    - '#65422F'
+  rhythmicContrast: 0.8351254
 typography_spectrum: 0.4408602
+layout_spectrum: 0.1469534
 name: Lots of Little
