@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.4408602
 color:
   saturation: 0.6075504
   brandStrength: 0.7849463
-  lightness: 0.7805884
+  rhythmicContrast: 0.8351254
   brandColors:
     - '#020203'
     - '#31879B'
     - '#044B65'
     - '#807F88'
     - '#65422F'
-  rhythmicContrast: 0.8351254
-layout_spectrum: 0.1469534
+  lightness: 0.7805884
+typography_spectrum: 0.389459
+layout_spectrum: 0.8404851
 name: Lots of Little
